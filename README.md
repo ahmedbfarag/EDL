@@ -1,2 +1,0 @@
-# EDL
-External Dynamic List
